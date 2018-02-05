@@ -1,0 +1,20 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+	font-size: 28px;
+}
+
+p {
+	padding: 5px;
+}
+
+header {
+	padding: 5px;
+}
+
+#game {
+	padding: 5px;
+}
